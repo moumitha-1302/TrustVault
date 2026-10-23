@@ -84,13 +84,13 @@ public class HomeController {
 </div>
                         <div class="card">
                             <h2>Access Control</h2>
-                            <p>Plan who can view or manage documents.</p>
-                            <span class="tag">Coming soon</span>
+<p>View your account and assigned permissions.</p>
+<a href="/access-control">Open Access Control</a>
                         </div>
                         <div class="card">
                             <h2>Security</h2>
-                            <p>TrustVault is being built with security in mind.</p>
-                            <span class="tag">In development</span>
+<p>Review the security protections enabled in TrustVault.</p>
+<a href="/security">View Security Status</a>
                         </div>
                     </section>
                 </main>
